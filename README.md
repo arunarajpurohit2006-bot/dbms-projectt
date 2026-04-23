@@ -1,3 +1,4 @@
+
 # 📚 Library Management System — Complete Setup Guide
 
 ## Prerequisites (Install These First)
@@ -219,3 +220,5 @@ frontend/
 - ✅ Role-based access: admins can't access student pages and vice versa
 - ✅ JWT tokens expire in 7 days (configurable)
 ```
+=======
+ 
